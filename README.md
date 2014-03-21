@@ -1,4 +1,0 @@
-mentors
-=======
-
-Mentors list
