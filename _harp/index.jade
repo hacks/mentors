@@ -18,7 +18,15 @@ for slug in public._data
     .col-sm-9
       p= slug.desc
 
-      P Open to chatting about
-      ul
-        each interest in slug.interests
-          li= interest
+      .row
+        .col-xs-6
+          p I've got experience with the following:
+          ul
+            each lang in slug.langs
+              li= lang
+
+        .col-xs-6
+          p Open to chatting about
+          ul
+            each interest in slug.interests
+              li= interest
