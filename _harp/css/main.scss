@@ -1,0 +1,41 @@
+body {
+  background: #f4f4f7;
+  color: #444;
+  font-family: "Proxima Nova", Helvetica, sans-serif;
+  font-size: 1.6em;
+}
+
+.head-title {
+    text-align: center;
+    h1 {
+      font-weight: 900;
+      font-size: 3em;
+      text-transform: none;
+    }
+}
+
+h1 {
+  font-weight: 300;
+}
+
+.mentors h1 {
+  margin-top: 0;
+  font-size: 2.8rem;
+}
+
+.social {
+  text-align: center;
+  a {
+    margin: 0 3px;
+    background-color: #888;
+    display: inline-block;
+    // box-shadow: 2px 0 20px 1px rgba(0,0,0,0.2);
+  }
+  a.github:hover {
+    background-color: black;
+  }
+  a.twitter:hover {
+    background-color: #00ACED;
+  }
+
+}
