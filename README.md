@@ -14,7 +14,8 @@ The JSON file is in `_harp/_data.json`. Main guideline is to follow the existing
 
 Some things to note:
 * Remember that strings need to be strings. stringy strings, everyone.
-* You have to have a name, description, and lang and interest arrays.
+* You have to have a name, description, and lang and interest arrays. (See Outline section below for more info.)
+* If you don't have, or don't want to share, your github, website URL, or twitter handle, just don't include the key-value pair. Don't shove empty strings, because then we'll have dead links.
 
 ### Outline of the Object
 
@@ -27,6 +28,10 @@ Just in case this isn't self-explanatory enough
  * langs: An array of strings, representing the list of programming languages, frameworks, etc. that you'd be comfortable giving advice about.
  * interest: An array of strings, representing things you're interested in and would be willing to talk about.
 
- Aaaand that's all, ladies and gentlemen. If you've got questions or anything's not clear, file a bug report. Thanks!
+### Notes to future maintainers
 
- --Alice Young, (aliceyoung9)
+(To do: Write out how to harpJS.)
+
+Aaaand that's all, ladies and gentlemen. If you've got questions or anything's not clear, file a bug report. Thanks!
+
+--Alice Young, (aliceyoung9)
