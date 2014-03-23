@@ -10,7 +10,7 @@ yourself if you wouldn't mind helping out some nerdy baby huskies.
 
 ### Where do I shove my data?
 
-The JSON file is in `_harp/_data.json`. Main guideline is to follow the existing examples.
+The JSON file is in `_harp/_data.json`. Main guideline is to follow the existing examples. Push to the dev branch, not gh-pages.
 
 Some things to note:
 * Remember that strings need to be strings. stringy strings, everyone.
