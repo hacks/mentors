@@ -26,5 +26,19 @@
             "MediaWiki",
             "feminism",
             "bots" ]
+    },
+    "ryanplessner": {
+        "name": "Ryan Plessner",
+        "desc": "I do whatever needs doing. When I'm not brewing beer or performing surgery, I hack on my game engine side projects or some website or other.",
+        "github": "rpless",
+        "langs": ["Java", "Javascript", "Groovy", "Scala", "Racket"],
+        "interests": [ "3D Graphics",
+          "OpenGL",
+          "Compilers",
+          "Game Engines",
+          "DIY",
+          "Beer Making",
+          "Heavy Metal",
+          "Amatuer Surgery" ]
     }
 }
