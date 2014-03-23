@@ -6,12 +6,25 @@
         "www": "http://aliceyoung.io",
         "twitter": "alice_young9",
         "langs": [ "HTML/CSS", "Sass", "Jade", "Wordpress" ],
-        "interests": [ "Front-end Web Design", 
+        "interests": [ "Front-end Web Design",
           "hack culture",
           "intersectional feminism",
-          "Contemporary art", 
+          "Contemporary art",
           "Mixed media painting",
-          "laser cutting", 
+          "laser cutting",
           "American and East Asian politics" ]
+    },
+    "mollywhite" : {
+        "name": "Molly White",
+        "desc": "I do free and open-source software. I do a lot of work with Wikimedia and MediaWiki, and I write Twitter bots sometimes.",
+        "github": "mollywhite",
+        "www": "http://www.mollywhite.net",
+        "twitter": "molly0x57",
+        "langs": [ "Python", "Javascript" ],
+        "interests": [ "free/libre/open-source software",
+            "Wikimedia movement",
+            "MediaWiki",
+            "feminism",
+            "bots" ]
     }
 }
