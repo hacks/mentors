@@ -5,22 +5,8 @@ html
     title NUHacks Mentors List
     link(rel="stylesheet", href="css/bootstrap.min.css")
     link(rel="stylesheet", href="css/main.css")
+    link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Lato")
     meta(name="viewport" content="width=device-width")
   body
     .container
-      .row
-        div(class="col-md-10 col-md-offset-1")
-          .head-title
-            h1 NU Hacks: List of Mentors
-          h1 What is this?!
-          p 
-            | This is a list of people in, on, or around the NUHacks community who 
-            | wouldn't mind talking about things with people. Want to learn a 
-            | thing? Hit up someone with similar interests! Want to mentor an 
-            | underclassman or five? 
-            | <a href="https://github.com/NUHacks/mentors" target="_blank">Fork the repo.</a>
-      .row.mentors
-        div(class="col-md-10 col-md-offset-1")
-          != yield
-  script(type="text/javascript" src="//use.typekit.net/kea5wda.js")
-  script(type="text/javascript") try{Typekit.load();}catch(e){}
+      != yield
