@@ -48,7 +48,7 @@
         "langs": ["C", "ASM (x86/ARM)", "Python", "Racket"],
         "interests": [ "Security",
           "Reverse Engineering",
-          "Vulnerability Research"
+          "Vulnerability Research",
           "Rootkit Development",
           "Hardware Hacking",
           "Linux Kernel",
