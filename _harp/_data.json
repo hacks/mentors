@@ -45,6 +45,8 @@
         "name": "Michael Coppola",
         "desc": "I like breaking code and hacking in the security sense. The lower level, the better.",
         "github": "mncoppola",
+        "www": "http://poppopret.org",
+        "twitter": "mncoppola",
         "langs": ["C", "ASM (x86/ARM)", "Python", "Racket"],
         "interests": [ "Security",
           "Reverse Engineering",
