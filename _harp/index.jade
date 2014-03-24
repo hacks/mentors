@@ -12,12 +12,12 @@
 .row.mentors
   div(class="col-md-10 col-md-offset-1")
     for slug in public._data
-      .row
+      .row.mentorName
         .col-xs-12
           if slug.www
             h1 #{ slug.name} 
-              a(href="#{ slug.www }" target="_blank") 
-                small (website)
+              small 
+                a(href="#{ slug.www }" target="_blank") (website)
           else
             h1= slug.name
       .row
