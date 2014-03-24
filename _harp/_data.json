@@ -163,5 +163,29 @@
             "Racket",
             "C#"
         ]
+    },
+    {
+        "name": "Mark Mossberg",
+        "twitter": "markmossberg",
+        "www": "http://markmossberg.com",
+        "desc": "I like security, hardware, and building fun and useful things.",
+        "github": "markmossberg",
+        "interests": [
+            "Security",
+            "Networking",
+            "Operations",
+            "Hardware",
+            "Microcontrollers",
+            "(Live) Music",
+            "Electric Guitar",
+            "Home Recording/Audio Production",
+            "Longboarding"
+        ],
+        "langs": [
+            "Python",
+            "C/C++",
+            "JavaScript",
+            "HTML/CSS"
+        ]
     }
 ]
