@@ -1,89 +1,103 @@
-{
-    "aliceyoung": {
+[
+    {
         "name": "Alice Young",
+        "twitter": "alice_young9",
+        "www": "http://aliceyoung.io",
         "desc": "I whip stylesheets into shape. Transferred to NU 2 years ago from a silly southern art school. Was on the organizing team for HackBeanpot 2014.",
         "github": "aliceyoung9",
-        "www": "http://aliceyoung.io",
-        "twitter": "alice_young9",
-        "langs": [ "HTML/CSS", "Sass", "Jade", "Wordpress" ],
-        "interests": [ "Front-end Web Design",
-          "hack culture",
-          "intersectional feminism",
-          "Contemporary art",
-          "Mixed media painting",
-          "laser cutting",
-          "American and East Asian politics" ]
+        "interests": [
+            "Front-end Web Design",
+            "hack culture",
+            "intersectional feminism",
+            "Contemporary art",
+            "Mixed media painting",
+            "laser cutting",
+            "American and East Asian politics"
+        ],
+        "langs": [
+            "HTML/CSS",
+            "Sass",
+            "Jade",
+            "Wordpress"
+        ]
     },
-    "mollywhite" : {
+    {
         "name": "Molly White",
+        "twitter": "molly0x57",
+        "www": "http://www.mollywhite.net",
         "desc": "I do free and open-source software. I do a lot of work with Wikimedia and MediaWiki, and I write Twitter bots sometimes.",
         "github": "mollywhite",
-        "www": "http://www.mollywhite.net",
-        "twitter": "molly0x57",
-        "langs": [ "Python", "Javascript" ],
-        "interests": [ "free/libre/open-source software",
+        "interests": [
+            "free/libre/open-source software",
             "Wikimedia movement",
             "MediaWiki",
             "feminism",
-            "bots" ]
+            "bots"
+        ],
+        "langs": [
+            "Python",
+            "Javascript"
+        ]
     },
-    "ryanplessner": {
+    {
         "name": "Ryan Plessner",
         "desc": "I do whatever needs doing. When I'm not brewing beer or performing surgery, I hack on my game engine side projects or some website or other.",
         "github": "rpless",
-        "langs": ["Java", "Javascript", "Groovy", "Scala", "Racket"],
-        "interests": [ "3D Graphics",
-          "OpenGL",
-          "Compilers",
-          "Game Engines",
-          "DIY",
-          "Beer Making",
-          "Heavy Metal",
-          "Amatuer Surgery" ]
+        "interests": [
+            "3D Graphics",
+            "OpenGL",
+            "Compilers",
+            "Game Engines",
+            "DIY",
+            "Beer Making",
+            "Heavy Metal",
+            "Amatuer Surgery"
+        ],
+        "langs": [
+            "Java",
+            "Javascript",
+            "Groovy",
+            "Scala",
+            "Racket"
+        ]
     },
-    "mncoppola": {
+    {
         "name": "Michael Coppola",
+        "twitter": "mncoppola",
+        "www": "http://poppopret.org",
         "desc": "I like breaking code and hacking in the security sense. The lower level, the better.",
         "github": "mncoppola",
-        "www": "http://poppopret.org",
-        "twitter": "mncoppola",
-        "langs": ["C", "ASM (x86/ARM)", "Python", "Racket"],
-        "interests": [ "Security",
-          "Reverse Engineering",
-          "Vulnerability Research",
-          "Rootkit Development",
-          "Hardware Hacking",
-          "Linux Kernel",
-          "Embedded Systems",
-          "CTF" ]
-    },
-    "ali": {
-        "name": "Ali Ukani",
-        "desc": "I make dope things for your browser. Web dev + generalist.",
-        "github": "ali",
-        "www": "http://ali.io",
-        "twitter": "aliukani",
-        "langs": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "CoffeeScript",
-            "Node",
-            "Backbone"
-            ],
         "interests": [
-            "web development",
-            "hack culture",
-            "music",
-            "rock climbing"
-            ]
+            "Security",
+            "Reverse Engineering",
+            "Vulnerability Research",
+            "Rootkit Development",
+            "Hardware Hacking",
+            "Linux Kernel",
+            "Embedded Systems",
+            "CTF"
+        ],
+        "langs": [
+            "C",
+            "ASM (x86/ARM)",
+            "Python",
+            "Racket"
+        ]
     },
-    "pranav": {
+    {
         "name": "Pranav Gandhi",
+        "twitter": "pgandhi_",
+        "www": "http://pranav.io",
         "desc": "I like building scalable systems and work on random projects. I'm a developer turned sysadmin/operations person.",
         "github": "pranav",
-        "www": "http://pranav.io",
-        "twitter": "pgandhi_",
+        "interests": [
+            "Systems Administration",
+            "Operations",
+            "Scalability",
+            "Dubstep",
+            "#GSD",
+            "#JFDI"
+        ],
         "langs": [
             "Python",
             "Django/Flask/SQLAlchemy/Jinja",
@@ -95,7 +109,59 @@
             "SASS",
             "Puppet",
             "Ruby"
+        ]
+    },
+    {
+        "name": "Ali Ukani",
+        "twitter": "aliukani",
+        "www": "http://ali.io",
+        "desc": "I make dope things for your browser. Web dev + generalist.",
+        "github": "ali",
+        "interests": [
+            "web development",
+            "hack culture",
+            "music",
+            "rock climbing"
         ],
-        "interests": ["Systems Administration", "Operations", "Scalability", "Dubstep", "#GSD", "#JFDI"]
+        "langs": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "CoffeeScript",
+            "Node",
+            "Backbone"
+        ]
+    },
+    {
+        "name": "Paul Furtado",
+        "desc": "Engineering and operations. I'm interested in all facets of Computer Science and I like things with more moving parts. If you don't know where to start, talk to me.",
+        "interests": [
+            "Linux",
+            "Virtualization",
+            "Electronics",
+            "Performance",
+            "Networking",
+            "Operating Systems",
+            "Automation",
+            "Databases",
+            "Systems Administration",
+            "ARM",
+            "Hardware",
+            "Embedded Systems",
+            "Microcontrollers",
+            "Automotive Electronics"
+        ],
+        "langs": [
+            "Python",
+            "Bash",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Java",
+            "C",
+            "SQL",
+            "Racket",
+            "C#"
+        ]
     }
-}
+]
