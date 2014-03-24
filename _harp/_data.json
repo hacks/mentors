@@ -97,5 +97,29 @@
             "music",
             "rock climbing"
             ]
+    },
+    "zack": {
+        "name": "Zack Youngren",
+        "desc": "Sometimes I do things. I don't keep much on my public GitHub.",
+        "github": "zack",
+        "www": "http://youngren.io",
+        "langs": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Coffeescript",
+            "Backbone",
+            "Ruby on Rails",
+            "Hadoop"
+        ],
+        "interests": [
+            "UX",
+            "Road Trips",
+            "Roller Derby",
+            "Feminism",
+            "Ryan Plessner",
+            "Education",
+            "Ethics"
+        ]
     }
 }
