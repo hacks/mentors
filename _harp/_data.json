@@ -56,5 +56,26 @@
           "Linux Kernel",
           "Embedded Systems",
           "CTF" ]
+    },
+    "ali": {
+        "name": "Ali Ukani",
+        "desc": "I make dope things for your browser. Web dev + generalist.",
+        "github": "ali",
+        "www": "http://ali.io",
+        "twitter": "aliukani",
+        "langs": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "CoffeeScript",
+            "Node",
+            "Backbone"
+            ],
+        "interests": [
+            "web development", 
+            "hack culture",
+            "music",
+            "rock climbing"
+            ]
     }
 }
