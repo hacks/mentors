@@ -163,7 +163,8 @@
             "Racket",
             "C#"
         ]
-    },{
+    },
+    {
         "name": "Jonathan Goodwin",
         "twitter": "JWGoodwin_",
         "www": "http://jwg.io",
@@ -189,6 +190,30 @@
             "Javascript",
             "HTML",
             "CSS"
+        ]
+    },
+    {
+        "name": "Zack Youngren",
+        "desc": "Sometimes I do things. I don't keep much on my public GitHub.",
+        "github": "zack",
+        "www": "http://youngren.io",
+        "langs": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Coffeescript",
+            "Backbone",
+            "Ruby on Rails",
+            "Hadoop"
+        ],
+        "interests": [
+            "UX",
+            "Road Trips",
+            "Roller Derby",
+            "Feminism",
+            "Ryan Plessner",
+            "Education",
+            "Ethics"
         ]
     }
 ]
