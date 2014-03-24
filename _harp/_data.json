@@ -57,6 +57,27 @@
           "Embedded Systems",
           "CTF" ]
     },
+    "ali": {
+        "name": "Ali Ukani",
+        "desc": "I make dope things for your browser. Web dev + generalist.",
+        "github": "ali",
+        "www": "http://ali.io",
+        "twitter": "aliukani",
+        "langs": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "CoffeeScript",
+            "Node",
+            "Backbone"
+            ],
+        "interests": [
+            "web development", 
+            "hack culture",
+            "music",
+            "rock climbing"
+            ]
+    },
     "pranav": {
         "name": "Pranav Gandhi",
         "desc": "I like building scalable systems and work on random projects. I'm a developer turned sysadmin/operations person.",
@@ -76,26 +97,5 @@
             "Ruby"
         ],
         "interests": ["Systems Administration", "Operations", "Scalability", "Dubstep", "#GSD", "#JFDI"]
-    },
-    "ali": {
-        "name": "Ali Ukani",
-        "desc": "I make dope things for your browser. Web dev + generalist.",
-        "github": "ali",
-        "www": "http://ali.io",
-        "twitter": "aliukani",
-        "langs": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "CoffeeScript",
-            "Node",
-            "Backbone"
-            ],
-        "interests": [
-            "web development",
-            "hack culture",
-            "music",
-            "rock climbing"
-            ]
     }
 }
