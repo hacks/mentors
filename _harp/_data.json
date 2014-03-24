@@ -97,5 +97,20 @@
             "Ruby"
         ],
         "interests": ["Systems Administration", "Operations", "Scalability", "Dubstep", "#GSD", "#JFDI"]
+    },
+    "markmossberg": {
+        "name": "Mark Mossberg",
+        "desc": "I like security, hardware, and building fun and useful things.",
+        "github": "markmossberg",
+        "www": "http://markmossberg.com",
+        "twitter": "markmossberg",
+        "langs": ["Python", "C/C++"],
+        "interests": [
+            "Security",
+            "Microcontrollers",
+            "(Live) Music",
+            "Electric Guitar",
+            "Home Recording/Audio Production",
+            "Longboarding"]
     }
 }
