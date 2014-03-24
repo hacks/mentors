@@ -57,6 +57,26 @@
           "Embedded Systems",
           "CTF" ]
     },
+    "pranav": {
+        "name": "Pranav Gandhi",
+        "desc": "I like building scalable systems and work on random projects. I'm a developer turned sysadmin/operations person.",
+        "github": "pranav",
+        "www": "http://pranav.io",
+        "twitter": "pgandhi_",
+        "langs": [
+            "Python",
+            "Django/Flask/SQLAlchemy/Jinja",
+            "PHP",
+            "JavaScript",
+            "CoffeeScript",
+            "HTML/CSS",
+            "Jade",
+            "SASS",
+            "Puppet",
+            "Ruby"
+        ],
+        "interests": ["Systems Administration", "Operations", "Scalability", "Dubstep", "#GSD", "#JFDI"]
+    },
     "ali": {
         "name": "Ali Ukani",
         "desc": "I make dope things for your browser. Web dev + generalist.",
@@ -72,7 +92,7 @@
             "Backbone"
             ],
         "interests": [
-            "web development", 
+            "web development",
             "hack culture",
             "music",
             "rock climbing"
