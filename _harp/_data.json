@@ -1,5 +1,8 @@
 [
     {
+        "name": "Alice Young",
+        "twitter": "alice_young9",
+        "www": "http://aliceyoung.io",
         "desc": "I whip stylesheets into shape. Transferred to NU 2 years ago from a silly southern art school. Was on the organizing team for HackBeanpot 2014.",
         "github": "aliceyoung9",
         "interests": [
@@ -16,12 +19,12 @@
             "Sass",
             "Jade",
             "Wordpress"
-        ],
-        "name": "Alice Young",
-        "twitter": "alice_young9",
-        "www": "http://aliceyoung.io"
+        ]
     },
     {
+        "name": "Molly White",
+        "twitter": "molly0x57",
+        "www": "http://www.mollywhite.net",
         "desc": "I do free and open-source software. I do a lot of work with Wikimedia and MediaWiki, and I write Twitter bots sometimes.",
         "github": "mollywhite",
         "interests": [
@@ -34,12 +37,10 @@
         "langs": [
             "Python",
             "Javascript"
-        ],
-        "name": "Molly White",
-        "twitter": "molly0x57",
-        "www": "http://www.mollywhite.net"
+        ]
     },
     {
+        "name": "Ryan Plessner",
         "desc": "I do whatever needs doing. When I'm not brewing beer or performing surgery, I hack on my game engine side projects or some website or other.",
         "github": "rpless",
         "interests": [
@@ -58,10 +59,12 @@
             "Groovy",
             "Scala",
             "Racket"
-        ],
-        "name": "Ryan Plessner"
+        ]
     },
     {
+        "name": "Michael Coppola",
+        "twitter": "mncoppola",
+        "www": "http://poppopret.org",
         "desc": "I like breaking code and hacking in the security sense. The lower level, the better.",
         "github": "mncoppola",
         "interests": [
@@ -79,12 +82,12 @@
             "ASM (x86/ARM)",
             "Python",
             "Racket"
-        ],
-        "name": "Michael Coppola",
-        "twitter": "mncoppola",
-        "www": "http://poppopret.org"
+        ]
     },
     {
+        "name": "Pranav Gandhi",
+        "twitter": "pgandhi_",
+        "www": "http://pranav.io",
         "desc": "I like building scalable systems and work on random projects. I'm a developer turned sysadmin/operations person.",
         "github": "pranav",
         "interests": [
@@ -106,10 +109,7 @@
             "SASS",
             "Puppet",
             "Ruby"
-        ],
-        "name": "Pranav Gandhi",
-        "twitter": "pgandhi_",
-        "www": "http://pranav.io"
+        ]
     },
     {
         "desc": "I make dope things for your browser. Web dev + generalist.",
@@ -131,5 +131,37 @@
         "name": "Ali Ukani",
         "twitter": "aliukani",
         "www": "http://ali.io"
+    },
+    {
+        "name": "Paul Furtado",
+        "desc": "Engineering and operations. I'm interested in all facets of Computer Science and I like things with more moving parts. If you don't know where to start, talk to me.",
+        "interests": [
+            "Linux",
+            "Virtualization",
+            "Electronics",
+            "Performance",
+            "Networking",
+            "Operating Systems",
+            "Automation",
+            "Databases",
+            "Systems Administration",
+            "ARM",
+            "Hardware",
+            "Embedded Systems",
+            "Microcontrollers",
+            "Automotive Electronics"
+        ],
+        "langs": [
+            "Python",
+            "Bash",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Java",
+            "C",
+            "SQL",
+            "Racket",
+            "C#"
+        ]
     }
 ]
