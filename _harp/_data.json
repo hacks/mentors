@@ -112,6 +112,9 @@
         ]
     },
     {
+        "name": "Ali Ukani",
+        "twitter": "aliukani",
+        "www": "http://ali.io",
         "desc": "I make dope things for your browser. Web dev + generalist.",
         "github": "ali",
         "interests": [
@@ -127,10 +130,7 @@
             "CoffeeScript",
             "Node",
             "Backbone"
-        ],
-        "name": "Ali Ukani",
-        "twitter": "aliukani",
-        "www": "http://ali.io"
+        ]
     },
     {
         "name": "Paul Furtado",
