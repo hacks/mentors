@@ -163,5 +163,32 @@
             "Racket",
             "C#"
         ]
+    },{
+        "name": "Jonathan Goodwin",
+        "twitter": "JWGoodwin_",
+        "www": "http://jwg.io",
+        "desc": "I’m an ex-Economist turned developer turned systems operations person. I love talking, so come talk to me!",
+        "github": "jonathanwgoodwin",
+        "interests": [
+            "Linux",
+            "Systems Administration/Engineering",
+            "Automation",
+            "Scalability",
+            "Electronic Music",
+            "Operations",
+            "Monitoring Systems",
+            "Graphing",
+            "Git"
+        ],
+        "langs": [
+            "Python",
+            "Bash",
+            "Zsh",
+            "Puppet",
+            "Ansible",
+            "Javascript",
+            "HTML",
+            "CSS"
+        ]
     }
 ]
