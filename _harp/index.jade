@@ -31,7 +31,10 @@
               img(src="img/github.png")
           if slug.twitter
             a(href="https://www.twitter.com/#{ slug.twitter}" class="twitter")
-              img(src="img/twitter.png")   
+              img(src="img/twitter.png")
+          if slug.email
+            a(href="mailto:#{ slug.email}" class="email")
+              img(src="img/gmail.png")   
         .col-sm-9
           p= slug.desc
 
