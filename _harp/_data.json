@@ -324,4 +324,35 @@
             "HTML/CSS"
         ]
     }
+    {
+        "name": "Steven Toye",
+        "twitter": "_stoye",
+        "www": "http://stevetoye.com",
+        "desc": "I mess around with Linux distros, kick around ideas for logic-based computation, and was on the organizing team for HackBeanpot '14.",
+        "github": "stoye",
+        "ccis": "stoye",
+        "email": "steve.toye@gmail.com",
+        "interests": [
+            "Linux",
+            "Hack culture",
+            "Running",
+            "Version Control Systems",
+            "Logic-based computational theory",
+            "Language design",
+            "Music (composing, listening, whatever)",
+            "Databases",
+            "PsychTech"
+        ],
+        "langs": [
+            "Python",
+            "Java",
+            "ACL2",
+            "PHP",
+            "Racket",
+            "HTML/CSS",
+            "JavaScript",
+            "Wordpress",
+            "Git"
+        ]
+    }
 ]
