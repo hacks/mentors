@@ -5,6 +5,7 @@
         "www": "http://aliceyoung.io",
         "desc": "I whip stylesheets into shape. Transferred to NU 2 years ago from a silly southern art school. Was on the organizing team for HackBeanpot 2014.",
         "github": "aliceyoung9",
+        "ccis": "alice",
         "interests": [
             "Front-end Web Design",
             "Hack culture",
@@ -27,6 +28,7 @@
         "www": "http://www.mollywhite.net",
         "desc": "I do free and open-source software. I do a lot of work with Wikimedia and MediaWiki, and I write Twitter bots sometimes.",
         "github": "mollywhite",
+        "ccis": "molly",
         "interests": [
             "free/libre/open-source software",
             "Wikimedia movement",
@@ -43,6 +45,7 @@
         "name": "Ryan Plessner",
         "desc": "I do whatever needs doing. When I'm not brewing beer or performing surgery, I hack on my game engine side projects or some website or other.",
         "github": "rpless",
+        "ccis": "rpless",
         "interests": [
             "3D Graphics",
             "OpenGL",
@@ -67,6 +70,7 @@
         "www": "http://poppopret.org",
         "desc": "I like breaking code and hacking in the security sense. The lower level, the better.",
         "github": "mncoppola",
+        "ccis": "mcoppola",
         "interests": [
             "Security",
             "Reverse Engineering",
@@ -90,6 +94,7 @@
         "www": "http://pranav.io",
         "desc": "I like building scalable systems and work on random projects. I'm a developer turned sysadmin/operations person.",
         "github": "pranav",
+        "ccis": "hyfi",
         "interests": [
             "Systems Administration",
             "Operations",
@@ -117,6 +122,7 @@
         "www": "http://ali.io",
         "desc": "I make dope things for your browser. Web dev + generalist.",
         "github": "ali",
+        "ccis": "aliukani",
         "interests": [
             "web development",
             "hack culture",
@@ -135,6 +141,7 @@
     {
         "name": "Paul Furtado",
         "desc": "Engineering and operations. I'm interested in all facets of Computer Science and I like things with more moving parts. If you don't know where to start, talk to me.",
+        "ccis": "pfurtado",
         "interests": [
             "Linux",
             "Virtualization",
@@ -170,6 +177,7 @@
         "www": "http://jwg.io",
         "desc": "I’m an ex-Economist turned developer turned systems operations person. I love talking, so come talk to me!",
         "github": "jonathanwgoodwin",
+        "ccis": "goodwin",
         "interests": [
             "Linux",
             "Systems Administration/Engineering",
@@ -197,6 +205,7 @@
         "desc": "Sometimes I do things. I don't keep much on my public GitHub.",
         "github": "zack",
         "www": "http://youngren.io",
+        "ccis": "zack",
         "langs": [
             "HTML",
             "CSS",
@@ -222,6 +231,7 @@
         "www": "http://markmossberg.com",
         "desc": "I like security, hardware, and building fun and useful things.",
         "github": "markmossberg",
+        "ccis": "markmoss",
         "interests": [
             "Security",
             "Networking",
@@ -245,6 +255,7 @@
         "www": "http://sarahlaplante.com",
         "desc": "I know things about unicode that would curl your hair.",
         "github": "ohnorobo",
+        "ccis": "laplante",
         "interests": [
             "Natural Language Processing",
             "Machine Learning",
@@ -289,6 +300,7 @@
         "desc": "I know things about SaaS operations. Sometimes I play with a yo-yo.",
         "github": "yacn",
         "www": "http://yacn.me",
+        "ccis": "iboehman",
         "interests": [
             "Operations",
             "Security",

@@ -25,6 +25,7 @@ Just in case this isn't self-explanatory enough
  * github: Github username.
  * www: Your personal website's full URL. Full. This is getting shoved right into a link tag.
  * twitter: Just your twitter handle,
+ * ccis: Just your ccis username, if you have one.
  * langs: An array of strings, representing the list of programming languages, frameworks, etc. that you'd be comfortable giving advice about.
  * interest: An array of strings, representing things you're interested in and would be willing to talk about.
 

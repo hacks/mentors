@@ -18,8 +18,12 @@
             h1 #{ slug.name} 
               small 
                 a(href="#{ slug.www }" target="_blank") (website)
+              if slug.ccis
+                span.label.label-info CCIS: #{ slug.ccis } 
           else
-            h1= slug.name
+            h1 #{ slug.name }
+              if slug.ccis
+                span.label.label-info CCIS: #{ slug.ccis } 
       .row
         .col-sm-3.social
           if slug.github

@@ -33,6 +33,13 @@ h1 {
   font-size: 2.8rem;
 }
 
+.mentors .label-info {
+  float: right;
+  background-color: $aqua;
+  font-family: inherit;
+  font-weight: 300;
+}
+
 .mentors .mentorName h1 small {
   a {
     color: $aqua;
@@ -41,6 +48,8 @@ h1 {
     }
   }
 }
+
+
 
 .social {
   text-align: center;
