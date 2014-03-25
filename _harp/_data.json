@@ -239,5 +239,29 @@
             "JavaScript",
             "HTML/CSS"
         ]
+    },
+    {
+        "name": "Sarah Laplante",
+        "www": "http://sarahlaplante.com",
+        "desc": "I know things about unicode that would curl your hair.",
+        "github": "ohnorobo",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Civic Tech",
+            "Biking",
+            "Search Engines",
+            "Linguistics",
+            "Papercraft/Origami"
+        ],
+        "langs": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "HTML/CSS",
+            "ZSH",
+            "Julia",
+            "GIT"
+        ]
     }
 ]
