@@ -358,5 +358,34 @@
             "Wordpress",
             "Git"
         ]
+    },
+    {
+        "name": "Spencer Florence",
+        "twitter": "maonus",
+        "www": "http://florence.io",
+        "desc": "I rant, I teach, and I learn things--hopefully. Γ ⊢ λ : life.",
+        "github": "florence",
+        "ccis": "florence",
+        "email": "spencer@florence.io",
+        "interests": [
+            "Programming Language Theory",
+            "Programming Tools",
+            "Emacs",
+            "Vim",
+            "Systems Administration",
+            "Compilers",
+            "Game Engines",
+            "Data Visualization (Graphs and GIFs yo)",
+            "Music, and lots of it",
+            "TES Lore"
+        ],
+        "langs": [
+            "Racket",
+            "Java",
+            "Scala(ish)",
+            "Rust",
+            "Bash",
+            "Javascript"
+        ]
     }
 ]
