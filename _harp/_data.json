@@ -283,5 +283,32 @@
             "Vim, Zsh",
             "Git"
         ]
+    },
+    {
+        "name": "Isaac Boehman",
+        "desc": "I know things about SaaS operations. Sometimes I play with a yo-yo.",
+        "github": "yacn",
+        "www": "http://yacn.me",
+        "interests": [
+            "Operations",
+            "Security",
+            "Monitoring",
+            "Virtualization",
+            "Continuous Integration",
+            "DevOps",
+            "Coffee",
+            "Biking",
+            "Torrents",
+            "Minimalist Footwear",
+            "The Environment"
+        ],
+        "langs": [
+            "Ruby",
+            "Chef",
+            "Sensu",
+            "Python",
+            "Bash",
+            "HTML/CSS"
+        ]
     }
 ]
