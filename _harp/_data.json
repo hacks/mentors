@@ -263,5 +263,25 @@
             "Julia",
             "GIT"
         ]
+    },
+    {
+        "name": "Edwin Morris",
+        "twitter": "ehmorris",
+        "www": "http://edwin.xxx",
+        "desc": "I really like the web. I'm into anything on hoverstat.es. I've done a bit of consulting and freelancing.",
+        "github": "ehmorris",
+        "interests": [
+            "Interactive installation art",
+            "Leveraging the browser medium",
+            "Client relations, freelancing",
+            "Dutch typefaces"
+        ],
+        "langs": [
+            "HTML/HAML, CSS/SASS, etc.",
+            "JavaScipt, jQuery, CoffeeScript, etc.",
+            "Rails, Middleman, Jekyll, etc.",
+            "Vim, Zsh",
+            "Git"
+        ]
     }
 ]
