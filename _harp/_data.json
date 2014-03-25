@@ -203,27 +203,30 @@
     },
     {
         "name": "Zack Youngren",
-        "desc": "Sometimes I do things. I don't keep much on my public GitHub.",
+        "desc": "Sometimes I do things.",
         "github": "zack",
         "www": "http://youngren.io",
         "ccis": "zack",
+        "email": "zack@ccs.neu.edu",
         "langs": [
-            "HTML",
-            "CSS",
-            "Javascript",
-            "Coffeescript",
+            "HTML/HAML CSS/SASS",
+            "Javascript/Coffeescript/Jquery",
             "Backbone",
             "Ruby on Rails",
-            "Hadoop"
+            "Some Python",
+            "Amazon EMR, EC2, S3, DP, etc. ",
+            "Vim, tmux, zsh",
+            "git"
         ],
         "interests": [
+            "Roller Derby",
             "UX",
             "Road Trips",
-            "Roller Derby",
             "Feminism",
             "Ryan Plessner",
             "Education",
-            "Ethics"
+            "Ethics",
+            "Space"
         ]
     },
     {
