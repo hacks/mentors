@@ -388,4 +388,48 @@
             "Javascript"
         ]
     }
+    {
+        "name": "Dan Calacci",
+        "twitter": "dcalacci",
+        "www": "http://dcalacci.net",
+        "desc": "I like the social sciences, too.",
+        "github": "dcalacci",
+        "ccis": "dcalacci",
+        "email": "dan@dcalacci.net",
+        "interests": [
+            "Data Science",
+            "Sociology",
+            "Politics",
+            "Data Visualization",
+            "Machine Learning",
+            "Gender Theory",
+            "Civic Hacking",
+            "Computational Social Science",
+            "Feminism",
+            "Natural Language Processing",
+            "Social Network Analysis",
+            "Self-Quantification",
+            "Mobile Development",
+            "Behavioral Health Apps",
+            "Robotics",
+            "Music (http://www.rdio.com/people/dcalacci/)",
+        ],
+        "langs": [
+            "Racket",
+            "Python",
+            "Java",
+            "Android",
+            "Bash",
+            "HTML/CSS",
+            "Django",
+            "Perl",
+            "Emacs",
+            "Octave",
+            "Gephi",
+            "a little javascript",
+            "a little R",
+            "a little Scala",
+            "a little Ruby",
+        ]
+    }
 ]
