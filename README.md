@@ -6,6 +6,9 @@ yourself if you wouldn't mind helping out some nerdy baby huskies.
 
 (And you really shouldn't, because after all, we're CCIS, and we family.)
 
+If you haven't hacked at Hacks before, we ask that you show up and interact
+with members at an IRL meeting before adding yourself here.
+
 ![husky family](http://i.imgur.com/K9JnwQb.jpg)
 
 ### Where do I shove my data?
