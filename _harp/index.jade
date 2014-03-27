@@ -12,16 +12,16 @@
 .row.mentors
   div(class="col-md-10 col-md-offset-1")
     for slug in public._data
-      .row.mentorName
+      .row
         .col-xs-12
           if slug.www
-            h1 #{ slug.name} 
+            h1.mentorName #{ slug.name} 
               small 
                 a(href="#{ slug.www }" target="_blank") (website)
               if slug.ccis
                 span.label.label-info CCIS: #{ slug.ccis } 
           else
-            h1 #{ slug.name }
+            h1.mentorName #{ slug.name }
               if slug.ccis
                 span.label.label-info CCIS: #{ slug.ccis } 
       .row
@@ -39,13 +39,12 @@
           p= slug.desc
 
           .row
-            .col-xs-6
+            .col-sm-6.col-xs-12
               p I've got experience with the following:
               ul
                 each lang in slug.langs
                   li= lang
-
-            .col-xs-6
+            .col-sm-6.col-xs-12
               p Open to chatting about:
               ul
                 each interest in slug.interests

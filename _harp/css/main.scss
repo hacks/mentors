@@ -54,10 +54,14 @@ h1 {
 .social {
   text-align: center;
   a {
-    margin: 0 3px;
+    margin: 0 3px;    
     background-color: #888;
     display: inline-block;
     // box-shadow: 2px 0 20px 1px rgba(0,0,0,0.2);
+    img {
+      width: 48px;
+      height: 48px;
+    }
   }
   a.github:hover {
     background-color: black;
@@ -67,5 +71,11 @@ h1 {
   }
   a.email:hover {
     background-color: #DD4B39;
+  }
+}
+
+@media(max-width: 768px) {
+  .social {
+    margin: 15px auto;
   }
 }
