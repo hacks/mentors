@@ -387,5 +387,30 @@
             "Bash",
             "Javascript"
         ]
+    },
+    {
+        "name": "DJ Hartman",
+        "twitter": "djhrtmn",
+        "www": "http://hartman.dj",
+        "desc": "Web generalist. Ruby and Rails are my bread and butter, but I'm also interested in front end web development and design.",
+        "github": "djhartman",
+        "ccis": "hartmand",
+        "email": "danieljayhartman@gmail.com",
+        "interests": [
+            "The web",
+            "Gamification and behaviour modification",
+            "Mindfulness",
+            "Designing for usability",
+            "Feminism, cultural criticism",
+            "Weird twitter",
+            "Trolling through Soundcloud",
+            "Weird snapchats"
+        ]
+        "langs": [
+            "Ruby (Frameworks like Rails, Sinatra, Jekyll)",
+            "HTML/CSS/JavaScript (also HAML, Markdown, Sass)",
+            "Git"
+        ]
+        
     }
 ]
