@@ -203,34 +203,6 @@
         ]
     },
     {
-        "name": "Zack Youngren",
-        "desc": "Sometimes I do things.",
-        "github": "zack",
-        "www": "http://youngren.io",
-        "ccis": "zack",
-        "email": "zack@ccs.neu.edu",
-        "langs": [
-            "HTML/HAML CSS/SASS",
-            "Javascript/Coffeescript/jQuery",
-            "Backbone",
-            "Ruby on Rails",
-            "Some Python",
-            "Amazon EMR, EC2, S3, DP, etc. ",
-            "Vim, tmux, zsh",
-            "git"
-        ],
-        "interests": [
-            "Roller Derby",
-            "UX",
-            "Road Trips",
-            "Feminism",
-            "Ryan Plessner",
-            "Education",
-            "Ethics",
-            "Space"
-        ]
-    },
-    {
         "name": "Mark Mossberg",
         "twitter": "markmossberg",
         "www": "http://markmossberg.com",
@@ -431,6 +403,6 @@
             "HTML/CSS/JavaScript (also HAML, Markdown, Sass)",
             "Git"
         ]
-        
+
     }
 ]
