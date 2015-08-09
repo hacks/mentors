@@ -44,6 +44,30 @@
         ]
     },
     {
+       "name": "Chris Beiser",
+        "twitter": "ctbeiser",
+        "www": "http://cbeiser.me",
+        "desc": "I make apps sometimes, but mostly I think about software making a more beautiful world.",
+        "github": "ctbeiser",
+        "ccis": "ctbeiser",
+        "email": "ctbeiser@gmail.com",
+        "interests": [
+            "UI Design",
+            "Typography + Type design",
+            "iOS Dev",
+            "UI Prototyping"
+        ],
+        "langs": [
+            "Quartz Composer + Origami",
+            "Swift",
+            "Objective-C",
+            "Python",
+            "Sketch",
+            "Paintcode"
+        ]
+    },
+    
+    {
         "name": "Ryan Plessner",
         "desc": "I do whatever needs doing. When I'm not brewing beer or performing surgery, I hack on my game engine side projects or some website or other.",
         "github": "rpless",
