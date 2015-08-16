@@ -428,7 +428,7 @@
             "Git"
         ]
 
-    }
+    },
     {
         "name": "Dan Calacci",
         "twitter": "dcalacci",
@@ -453,7 +453,7 @@
             "Mobile Development",
             "Behavioral Health Apps",
             "Robotics",
-            "Music (http://www.rdio.com/people/dcalacci/)",
+            "Music (http://www.rdio.com/people/dcalacci/)"
         ],
         "langs": [
             "Racket",
@@ -470,7 +470,7 @@
             "a little javascript",
             "a little R",
             "a little Scala",
-            "a little Ruby",
+            "a little Ruby"
         ]
     }
 ]
