@@ -473,4 +473,25 @@
             "a little Ruby"
         ]
     }
+    {
+        "name": "DJ Hartman",
+        "www": "http://hartman.dj",
+        "desc": "Web generalist. Came to NEU as an English major. Right-and-left-brainedness is a lie meant to create job security for technical people. I love teaching people things."
+        "github": "djhartman",
+        "twitter": "djhrtmn",
+        "interests": [
+            "Web development and design",
+            "Usability",
+            "Feminism",
+            "Gamification, designing for habit and behavior modification",
+            "Impostor syndrome and switching to STEM",
+        ],
+        "langs": [
+            "Ruby",
+            "Ruby Frameworks (Ruby on Rails, Sinatra)",
+            "HTML",
+            "CCS/SASS",
+            "Javascript"
+        ]
+    }
 ]
