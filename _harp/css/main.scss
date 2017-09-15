@@ -1,17 +1,18 @@
-$aqua: #8ebdc5;
-$moaraqua: #45ADA8;
+$major-color: #2574A9;
+$minor-color: #5BC0BE;
 
 body {
-  background: #f4f4f7;
-  color: #444;
+  background: #F9F7F3;
+  color: #333;
   font-family: 'Lato', sans-serif;
   font-size: 1.8em;
 }
 
 a {
-  color: $moaraqua;
-  &:hover {
-    color: $aqua;
+  color: $major-color;
+  &:hover,
+  &:focus {
+    color: $minor-color;
   }
 }
 
@@ -35,26 +36,15 @@ h1 {
 
 .mentors .label-info {
   float: right;
-  background-color: $aqua;
+  background-color: $minor-color;
   font-family: inherit;
   font-weight: 300;
 }
 
-.mentors .mentorName h1 small {
-  a {
-    color: $aqua;
-    &:hover {
-      color: $moaraqua;
-    }
-  }
-}
-
-
-
 .social {
   text-align: center;
   a {
-    margin: 0 3px;    
+    margin: 0 3px;
     background-color: #888;
     display: inline-block;
     // box-shadow: 2px 0 20px 1px rgba(0,0,0,0.2);
@@ -63,13 +53,16 @@ h1 {
       height: 48px;
     }
   }
-  a.github:hover {
+  a.github:hover,
+  a.github:focus {
     background-color: black;
   }
-  a.twitter:hover {
+  a.twitter:hover,
+  a.twitter:focus {
     background-color: #00ACED;
   }
-  a.email:hover {
+  a.email:hover,
+  a.email:focus {
     background-color: #DD4B39;
   }
 }
