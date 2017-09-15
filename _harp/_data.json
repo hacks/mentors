@@ -81,5 +81,25 @@
          "Sketch",
          "Paintcode"
       ]
-   }
+   },
+   {
+	"name" : "Dan Cohen",
+	"desc" : "I'm a functional programming nerd and a hardcore Words With Friends enthusiast.",
+	"github" : "dan3944",
+    "email" : "dccohe at gmail dot com",
+	 "interests" : [
+		 "Functional Programming",
+		 "Type Theory",
+		 "Artificial Intelligence / X-Risk",
+		 "Chess",
+		 "All the latest pokemon games"
+	],
+	 "langs" : [
+		"Haskell",
+		"Python",
+		"Java",
+		"Android",
+		"Git"
+	]
+ }
 ]
