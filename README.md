@@ -1,10 +1,8 @@
 # Mentors List for NU Hacks
 
 The idea for this project is to make it easy for freshmen/underclassmen to
-find upperclassmen and get help on a project or seek mentorship. Please add 
+find upperclassmen and get help on a project or seek mentorship. Please add
 yourself if you wouldn't mind helping out some nerdy baby huskies.
-
-(And you really shouldn't, because after all, we're CCIS, and we family.)
 
 If you haven't hacked at Hacks before, we ask that you show up and interact
 with members at an IRL meeting before adding yourself here.
@@ -28,18 +26,23 @@ Just in case this isn't self-explanatory enough
  * desc: A short, informal bio.
  * github: Github username.
  * www: Your personal website's full URL. Full. This is getting shoved right into a link tag.
- * twitter: Just your twitter handle,
+ * twitter: Just your twitter handle.
  * ccis: Just your ccis username, if you have one.
  * email: Your email. This is getting shoved into a mailto: link, so no funny business. If you don't want it up here, don't put it up here.
  * langs: An array of strings, representing the list of programming languages, frameworks, etc. that you'd be comfortable giving advice about. If it's a concrete technology that you put on your resume, it probably belongs here.
  * interest: An array of strings, representing things you're interested in and would be willing to talk about. Hobbies, passions, anything goes, really.
 
-# Maintenance
+# Maintenance and Publishing Process
 
 Big Picture: We use [HarpJS](http://harpjs.com) to take the JSON file describing
 all the human mentors, the [Sass](http://sass-lang.com/) files, and any other
 static assets into nice html/css files. And then we serve them up on a platter
 using [Github Pages](https://pages.github.com/).
+
+#### Versions:
+This project _should_ work on:
+* harp: v0.24.0
+* node: v8.5
 
 Assuming you've already [installed Harp
 properly](http://harpjs.com/docs/environment/install) and cloned the repo, run
@@ -54,7 +57,7 @@ unacceptable. Reject crummy pull requests.
 
 Do a cursory check that the commas are all still in the right place. Merge and
 pull onto your copy of the `dev` branch. Go back over to your local copy of the
-site, and make sure nothing has broken. (If somethng did break, it's probably
+site, and make sure nothing has broken. (If something did break, it's probably
 because someone misplaced a pesky comma, or was trying to be clever with strings
 or arrays. These are all quick fixes.) If everything looks good, push the
 branch's progress.
@@ -65,7 +68,7 @@ file from the `dev` branches. `git merge dev` will probably fall on its face.
 we need to compile, and we do that with `harp compile _harp ./`. Unstage the
 deletion of CNAME and README.md (SERIOUSLY PLZ.), commit, and finally, push.
 
-Aaaand that's all, ladies and gentlemen. If you've got questions or anything's
+And that's all, folks! If you've got questions or anything's
 not clear, file a bug report. Thanks!
 
 --Alice Young, (aliceyoung9)
