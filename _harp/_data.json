@@ -1,51 +1,49 @@
-[  
-   {  
+[
+   {
       "name":"Jack Frysinger",
       "twitter":"jackfrys",
-      "www":"jackfrysinger.com",
-      "desc":"",
+      "www":"//jackfrysinger.com",
       "github":"jackfrys",
-      "interests":[  
+      "interests":[
          "Server programming",
          "Apple fanboying",
          "Voice-driven interactions",
          "iOS app development",
          "Dunkin' Donuts"
       ],
-      "langs":[  
+      "langs":[
          "Java",
          "Python",
          "Swift",
          "LaTeX"
       ]
    },
-   {  
+   {
       "name":"Danielle Nguyen",
-      "twitter":"My tumblr is http://smurtleturtle.tumblr.com/ bc I'm cultured and refined",
-      "www":"daniellenguyen.github.io/",
+      "www":"//daniellenguyen.github.io/",
       "desc":"I'm sweet, salty, and a little bit chewy. I like front end, probably AR and Data Vis at the moment. If my website is down it means I'm living life to the fullest.",
       "github":"daniellenguyen",
-      "interests":[  
+      "interests":[
          "The front part of computer",
          "Augmented reality. Why have things when you can fake having things. It's green af.",
          "Data Visualization",
          "React, in this, the year 2017",
          "Flowers in my tea"
       ],
-      "langs":[  
+      "langs":[
          "Javascript",
          "D3",
          "C3",
          "Not Mongo"
       ]
    },
-   {  
+   {
       "name":"John Williams",
       "www":"http://johncomposed.com",
       "desc":"I travel, hack on projects, and teach stuff. Sometimes all at the same time. I major in IAF and miss Ubuntu 9.10.",
       "github":"johncomposed",
       "email":"johncomposed@gmail.com",
-      "interests":[  
+      "interests":[
          "Startups in the Developing World",
          "Fixing up super broken laptops",
          "UX and UX Research",
@@ -54,12 +52,12 @@
          "International Releations",
          "Educational Theory and Ed Tech"
       ],
-      "langs":[  
+      "langs":[
          "HTML5/CSS3",
          "Bash"
       ]
    },
-   {  
+   {
       "name":"Chris Beiser",
       "twitter":"ctbeiser",
       "www":"http://cbeiser.me",
@@ -67,13 +65,13 @@
       "github":"ctbeiser",
       "ccis":"ctbeiser",
       "email":"ctbeiser@gmail.com",
-      "interests":[  
+      "interests":[
          "UI Design",
          "Typography + Type design",
          "iOS Dev",
          "UI Prototyping"
       ],
-      "langs":[  
+      "langs":[
          "Quartz Composer + Origami",
          "Swift",
          "Objective-C",
