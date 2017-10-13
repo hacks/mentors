@@ -1,5 +1,23 @@
 [
    {
+      "name":"Ryan Hughes",
+      "github":"ryanhugh",
+      "email":"ryanhughes624@gmail.com",
+      "interests":[
+         "JavaScript JavaScript JavaScript",
+         "React, Webpack, Nodejs, Jest, Yarn, etc",
+         "Websites and stuff",
+         "Overwatch!! 😀",
+         "Skateboarding 🔥",
+         "Using emojis unnecessarily 😀😆🔥👌😆🍩🍻🔥😜🙌😜🎂👌🔥👍😀👍👊🔥😀😆"
+      ],
+      "langs":[
+         "JavaScript",
+         "C",
+         "Python"
+      ]
+   },
+   {
       "name":"Jack Frysinger",
       "twitter":"jackfrys",
       "www":"//jackfrysinger.com",
