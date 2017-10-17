@@ -1,0 +1,124 @@
+[
+   {
+      "name":"Ryan Hughes",
+      "github":"ryanhugh",
+      "email":"ryanhughes624@gmail.com",
+      "interests":[
+         "JavaScript JavaScript JavaScript",
+         "React, Webpack, Nodejs, Jest, Yarn, etc",
+         "Websites and stuff",
+         "Overwatch!! 😀",
+         "Skateboarding 🔥",
+         "Using emojis unnecessarily 😀😆🔥👌😆🍩🍻🔥😜🙌😜🎂👌🔥👍😀👍👊🔥😀😆"
+      ],
+      "langs":[
+         "JavaScript",
+         "C",
+         "Python"
+      ]
+   },
+   {
+      "name":"Jack Frysinger",
+      "twitter":"jackfrys",
+      "www":"//jackfrysinger.com",
+      "github":"jackfrys",
+      "interests":[
+         "Server programming",
+         "Apple fanboying",
+         "Voice-driven interactions",
+         "iOS app development",
+         "Dunkin' Donuts",
+	 "Boston sports",
+	 "Pretty code"
+      ],
+      "langs":[
+         "Java",
+         "Python",
+         "Swift",
+         "LaTeX",
+	 "JavaScript"
+      ]
+   },
+   {
+      "name":"Danielle Nguyen",
+      "www":"//daniellenguyen.github.io/",
+      "desc":"I'm sweet, salty, and a little bit chewy. I like front end, probably AR and Data Vis at the moment. If my website is down it means I'm living life to the fullest.",
+      "github":"daniellenguyen",
+      "interests":[
+         "The front part of computer",
+         "Augmented reality. Why have things when you can fake having things. It's green af.",
+         "Data Visualization",
+         "React, in this, the year 2017",
+         "Flowers in my tea"
+      ],
+      "langs":[
+         "Javascript",
+         "D3",
+         "C3",
+         "Not Mongo"
+      ]
+   },
+   {
+      "name":"John Williams",
+      "www":"http://johncomposed.com",
+      "desc":"I travel, hack on projects, and teach stuff. Sometimes all at the same time. I major in IAF and miss Ubuntu 9.10.",
+      "github":"johncomposed",
+      "email":"johncomposed@gmail.com",
+      "interests":[
+         "Startups in the Developing World",
+         "Fixing up super broken laptops",
+         "UX and UX Research",
+         "FOSS and Hacker Lore",
+         "Politics, Technology, and Infrastructure",
+         "International Releations",
+         "Educational Theory and Ed Tech"
+      ],
+      "langs":[
+         "HTML5/CSS3",
+         "Bash"
+      ]
+   },
+   {
+      "name":"Chris Beiser",
+      "twitter":"ctbeiser",
+      "www":"http://cbeiser.me",
+      "desc":"I make apps sometimes, but mostly I think about software making a more beautiful world.",
+      "github":"ctbeiser",
+      "ccis":"ctbeiser",
+      "email":"ctbeiser@gmail.com",
+      "interests":[
+         "UI Design",
+         "Typography + Type design",
+         "iOS Dev",
+         "UI Prototyping"
+      ],
+      "langs":[
+         "Quartz Composer + Origami",
+         "Swift",
+         "Objective-C",
+         "Python",
+         "Sketch",
+         "Paintcode"
+      ]
+   },
+   {
+	"name" : "Dan Cohen",
+	"desc" : "I'm a functional programming nerd and a hardcore Words With Friends enthusiast.",
+	"github" : "dan3944",
+    "email" : "dccohe at gmail dot com",
+	 "interests" : [
+		 "Functional Programming",
+		 "Type Theory",
+		 "Artificial Intelligence / X-Risk",
+		 "Chess",
+		 "All the latest pokemon games"
+	],
+	 "langs" : [
+		"Haskell",
+		"Python",
+		"Java",
+		"Android",
+		"Git"
+	]
+ }
+]
