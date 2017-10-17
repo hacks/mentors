@@ -23,7 +23,7 @@
    {
       "name":"Jack Frysinger",
       "twitter":"jackfrys",
-      "www":"//jackfrysinger.com",
+      "www":"//ccs.jackfrysinger.com",
       "github":"jackfrys",
       "interests":[
          "Server programming",
@@ -31,12 +31,15 @@
          "Voice-driven interactions",
          "iOS app development",
          "Dunkin' Donuts ☕🍩"
+         "Boston sports 🏈⚾",
+         "Pretty code 👌"
       ],
       "langs":[
          "Java",
          "Python",
          "Swift",
-         "LaTeX"
+         "LaTeX",
+      	"JavaScript"
       ]
    },
    {
