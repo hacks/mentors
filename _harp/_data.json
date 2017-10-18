@@ -5,38 +5,41 @@
       "email":"ryanhughes624@gmail.com",
       "interests":[
          "JavaScript JavaScript JavaScript",
-         "React, Webpack, Nodejs, Jest, Yarn, etc",
-         "Websites and stuff",
-         "Overwatch!! 😀",
-         "Skateboarding 🔥",
-         "Using emojis unnecessarily 😀😆🔥👌😆🍩🍻🔥😜🙌😜🎂👌🔥👍😀👍👊🔥😀😆"
+         "React, AngularJS, Nodejs, Jest, npm, Yarn, etc",
+         "Different JavaScript frameworks",
+         "Web/Node.js development",
+         "Overwatch 🍻",
+         "Skateboarding 🎉🔥",
+         "Using emojis unnecessarily 😀👊🔥👌😆🍩🍻"
       ],
       "langs":[
          "JavaScript",
          "C",
-         "Python"
+         "Python",
+         "Linux",
+         "Git"
       ]
    },
    {
       "name":"Jack Frysinger",
       "twitter":"jackfrys",
-      "www":"//jackfrysinger.com",
+      "www":"//ccs.jackfrysinger.com",
       "github":"jackfrys",
       "interests":[
          "Server programming",
-         "Apple fanboying",
+         "Apple fanboying 🍎",
          "Voice-driven interactions",
          "iOS app development",
-         "Dunkin' Donuts",
-	 "Boston sports",
-	 "Pretty code"
+         "Dunkin' Donuts ☕🍩",
+         "Boston sports 🏈⚾",
+         "Pretty code 👌"
       ],
       "langs":[
          "Java",
          "Python",
          "Swift",
          "LaTeX",
-	 "JavaScript"
+      	 "JavaScript"
       ]
    },
    {
