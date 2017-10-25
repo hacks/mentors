@@ -39,36 +39,30 @@ all the human mentors, the [Sass](http://sass-lang.com/) files, and any other
 static assets into nice html/css files. And then we serve them up on a platter
 using [Github Pages](https://pages.github.com/).
 
-#### Versions:
+### Versions:
 This project _should_ work on:
 * harp: v0.24.0
 * node: v8.5
 
+### Local development
 Assuming you've already [installed Harp
 properly](http://harpjs.com/docs/environment/install) and cloned the repo, run
 `harp server _harp` within the repository's directory, on the `dev` branch. You
 should be able to see a local copy of the Mentors Page served upon
 `http://localhost:9000/`.
 
+### Accepting PR's
+
 So say you get a pull request. Check the diffs to make sure the mentor has
 submitted a reasonable pull request. Check to make sure the mentor isn't making
 absurd claims, bad spelling mistakes, racist jokes in the bio, or anything else
 unacceptable. Reject crummy pull requests.
 
-Do a cursory check that the commas are all still in the right place. Merge and
-pull onto your copy of the `dev` branch. Go back over to your local copy of the
-site, and make sure nothing has broken. (If something did break, it's probably
-because someone misplaced a pesky comma, or was trying to be clever with strings
-or arrays. These are all quick fixes.) If everything looks good, push the
-branch's progress.
+Do a cursory check that the commas are all still in the right place.
 
-Now, switch over to the `gh-pages` branch. Merge in your changes to the JSON
-file from the `dev` branches. `git merge dev` will probably fall on its face.
-`git rebase dev` followed by `git rebase` will usually work out really well. Now
-we need to compile, and we do that with `harp compile _harp ./`. Commit, and
-finally, push.
+### Deploying
+1. `npm install --dev`
+2. `npm run deploy`
 
 And that's all, folks! If you've got questions or anything's
 not clear, file a bug report. Thanks!
-
---Alice Young, (aliceyoung9)
