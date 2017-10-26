@@ -1,0 +1,25 @@
+{
+  "name": "hacks-mentor",
+  "version": "1.0.0",
+  "description": "Mentors List for NU Hacks",
+  "scripts": {
+    "deploy": "harp compile _harp public && gh-pages -d public -m 'Compiling harp site...'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacks/mentors.git"
+  },
+  "keywords": [
+    "nuhacks",
+    "harpjs"
+  ],
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/hacks/mentors/issues"
+  },
+  "homepage": "http://mentors.hacks.io/",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
