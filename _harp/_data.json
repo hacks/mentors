@@ -146,5 +146,28 @@
 		"Android",
 		"Git"
 	]
+ },
+   {
+	"name" : "Jacob Aronoff",
+	"desc" : "Your friendly neighborhood hackermans.",
+	"github" : "jaronoff97",   
+        "www":"http://cbeiser.me",
+        "email" : "jacobaronoff45@gmail.com",
+	"interests" : [
+		 "Full Stack Development",
+		 "App Development",
+		 "Data Science",
+		 "Civ 6",
+		 "Apple stuffz",
+		 "Reacty things"
+	],
+	 "langs" : [
+		"Swift",
+		"Python",
+		"Java",
+		"Go",
+		"C",
+		"React Native JS-y things"
+	]
  }
 ]
