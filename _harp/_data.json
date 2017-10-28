@@ -1,5 +1,28 @@
 [
    {
+      "name":"Milo \"Pigslayer\" Davis",
+      "github":"milodavis",
+      "email":"davis.mil@husky.neu.edu",
+      "interests":[
+         "Programming Languages",
+         "Machine Learning",
+         "Functional Programming",
+         "Olin Shivers",
+         "Research (I've done it and survived)",
+         "Cooking Thanksgiving Dinner",
+         "Tezos",
+         "I'm currently co-oping in France, but will be back"
+      ],
+      "langs":[
+         "OCaml",
+         "Racket",
+         "Python",
+         "Bash",
+         "Git",
+         "Java (Ask me about why it's bad)"
+      ]
+   },
+   {
       "name":"Ryan Hughes",
       "github":"ryanhugh",
       "email":"ryanhughes624@gmail.com",
