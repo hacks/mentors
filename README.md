@@ -24,21 +24,17 @@ Some things to note:
 
 # Outline of a Mentor-describing Object
 
-Just in case this isn't self-explanatory enough
-  * Name: Is your full name.
-  * desc: A short, informal bio.
-  * github: Github username.
-  * www: Your personal website's full URL. Full. This is getting shoved right
-    into a link tag.
-  * twitter: Just your twitter handle.
-  * ccis: Just your ccis username, if you have one.
-  * email: Your email. This is getting shoved into a mailto: link, so no funny
-  business. If you don't want it up here, don't put it up here.
-  * langs: An array of strings, representing the list of programming languages,
-  frameworks, etc. that you'd be comfortable giving advice about. If it's a
-  concrete technology that you put on your resume, it probably belongs here.
-  * interest: An array of strings, representing things you're interested in and
-  would be willing to talk about. Hobbies, passions, anything goes, really.
+| Key | Value |
+| --- | ----- |
+| `name` | Is your full name. |
+| `desc` | A short, informal bio. |
+| `github` | Github username. |
+| `www` | Your personal website's full URL. Full. This is getting shoved right into a link tag. |
+| `twitter` | Just your twitter handle. |
+| `ccis` | Just your ccis username, if you have one. |
+| `email` | Your email. This is getting shoved into a mailto: link, so no funny business. If you don't want it up here, don't put it up here. |
+| `langs` | An array of strings, representing the list of programming languages, frameworks, etc. that you'd be comfortable giving advice about. If it's a concrete technology that you put on your resume, it probably belongs here. |
+| `interests` | An array of strings, representing things you're interested in and would be willing to talk about. Hobbies, passions, anything goes, really. |
 
 # Maintenance and Publishing Process
 
