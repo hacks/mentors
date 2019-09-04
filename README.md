@@ -43,6 +43,25 @@ all the human mentors, the [Sass](http://sass-lang.com/) files, and any other
 static assets into nice html/css files. And then we serve them up on a platter
 using [Github Pages](https://pages.github.com/).
 
+## Using Jennings' Docker Container
+
+Alice Young's original instructions below might not work because *depEnDENcIES*.
+
+```bash
+# first, build the harpjs container
+npm run container:install
+# preview server
+npm run container:dev
+```
+
+`gh-pages` should be used on the **host** machine instead.
+```bash
+npm i --only=dev
+npm run container:deploy
+```
+
+## Alice Young's Instructions
+
 ### Versions:
 This project _should_ work on:
 * harp: v0.24.0
