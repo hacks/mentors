@@ -3,7 +3,18 @@
   "version": "1.0.0",
   "description": "Mentors List for NU Hacks",
   "scripts": {
-    "deploy": "harp compile _harp public && gh-pages -d public -m 'Compiling harp site...'"
+    "container:install": "docker build -t nuhacks-mentors $PWD",
+    "container:dev": "docker run -it --rm -v \"$PWD/_harp:/app/_harp\" -p 9000:9000 nuhacks-mentors start",
+    "container:shell": "docker run -it --rm -v \"$PWD/_harp:/app/_harp\" -p 9000:9000 nuhacks-mentors shell",
+    "container:build": "docker run -it --rm -v \"$PWD/_harp:/app/_harp\" -v \"$PWD/public:/app/public\" -e HOST_UID=`id -u` nuhacks-mentors own",
+    "container:clean": "docker run -it --rm -v \"$PWD/_harp:/app/_harp\" -v \"$PWD/public:/app/public\" nuhacks-mentors clean",
+    "shell": "/bin/sh",
+    "start": "harp server _harp",
+    "build": "harp compile _harp public",
+    "own": "[ \"$HOST_UID\" -ge 0 ] && npm run build && chown -R $HOST_UID:$HOST_UID public",
+    "clean": "rm -r public/*",
+    "deploy": "harp compile _harp public && gh-pages -d public -m 'Compiling harp site...'",
+    "pages": "gh-pages -d public -m 'Deploy harp site'"
   },
   "repository": {
     "type": "git",
@@ -18,7 +29,10 @@
   "bugs": {
     "url": "https://github.com/hacks/mentors/issues"
   },
-  "homepage": "http://mentors.hacks.io/",
+  "homepage": "http://mentors.nuhacks.io/",
+  "dependencies": {
+    "harp": "0.24.0"
+  },
   "devDependencies": {
     "gh-pages": "^1.0.0"
   }
