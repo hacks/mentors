@@ -1,4 +1,31 @@
 [
+  {
+      "name": "Jennings Zhang",
+      "desc": "Opinionated and awkward person ;-;",
+      "github": "jennydaman",
+      "www": "https://pro.teaso.me/resume",
+      "email": "jz@nuhacks.io",
+      "ccis": "jenni",
+      "langs": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "LaTeX",
+          "Bash",
+          "Docker",
+          "Linux"
+      ],
+      "interests": [
+          "Computational Medicine",
+          "Human gut microbiome",
+          "Neuroinformatics",
+          "Education (fundies bad)",
+          "Cybersecurity",
+          "{{buzzword[8]}}",
+          "Philosophy and Debate",
+          "Chinese tea"
+      ]
+  },
    {
       "name":"Milo \"Pigslayer\" Davis",
       "github":"milodavis",
@@ -150,7 +177,7 @@
    {
 	"name" : "Jacob Aronoff",
 	"desc" : "Your friendly neighborhood hackermans.",
-	"github" : "jaronoff97",   
+	"github" : "jaronoff97",
         "www":"http://jaronoff.com",
         "email" : "jacobaronoff45@gmail.com",
 	"interests" : [
